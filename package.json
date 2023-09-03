@@ -1,0 +1,16 @@
+{
+  "name": "com.thirdparty.jakebayer.fuzzysharp",
+  "version": "2.0.0",
+  "displayName": "FuzzySharp Unity",
+  "description": "Fork of FuzzySharp for Unity Packages",
+  "keywords": [
+    "Search",
+    "Fuzzy Match",
+    "Third Party"
+  ],
+  "author": {
+    "name": "Nifty Hat",
+    "email": "duncan@niftyhat.com",
+    "url": "https://www.niftyhat.com"
+  }
+}
